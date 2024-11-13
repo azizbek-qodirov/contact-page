@@ -7,8 +7,8 @@ const App = () => {
       type: 'social',
       icon: '/instagram.png',
       label: 'Instagram',
-      value: '@dr.husanboy_asqarovich',
-      link: 'https://www.instagram.com/dr.husanboy_asqarovich/profilecard/?igsh=MnFyNGkzNXc5OGgw'
+      value: '@husanboy_urolog',
+      link: 'https://www.instagram.com/husanboy_urolog/profilecard/?igsh=MnFyNGkzNXc5OGgw'
     },
     {
       type: 'contact',
